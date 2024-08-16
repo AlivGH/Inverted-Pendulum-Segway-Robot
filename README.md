@@ -48,10 +48,19 @@ Two designs were developed: an initial prototype and a final optimized design. B
 
 This project provided valuable insights into mobile robotics and control systems, particularly in tuning PID controllers and managing non-linear systems. The experience gained will be instrumental in future projects within the field of mechatronics.
 
-## References
+## Key Skills
 
-- Hyung-Jik Lee and S. Jung, "Control of a mobile inverted pendulum robot system," 2008 International Conference on Control, Automation and Systems, Seoul, Korea, 2008.
+- Mechatroinc 💻
+- Control 🧠
+  
 
----
+## Contact Information
 
-Feel free to customize the description and adjust any specific details to better fit your project.
+Feel free to reach out to me via:
+
+📫 Email: [alivghasemi@gmail.com](mailto:alivghasemi@gmail.com)
+
+✏ LinkedIn: [Ali Ghasemi](https://www.linkedin.com/in/alivghasemi/)
+
+Thank you for exploring my project! 🙌 Your feedback and contributions are highly appreciated. Let's continue pushing the boundaries of deep learning together! 🚀
+
