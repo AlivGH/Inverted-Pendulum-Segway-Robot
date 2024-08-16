@@ -1,5 +1,5 @@
+![image](https://github.com/user-attachments/assets/ad3c34fc-4650-4b4b-a6d6-be4fbb178b58)
 
-![image](https://github.com/user-attachments/assets/539d3b91-1f2d-435c-bb56-6d5d4ae9bb59)
 
 ## Project Overview
 
