@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/539d3b91-1f2d-435c-bb56-6d5d4ae9bb59)
+
 ## Project Overview
 
 The main objective of this project is to build a self-balancing robot using an inverted pendulum design. The robot is equipped with an accelerometer for position detection and DC motors for movement. The system is controlled using a PID controller implemented on an Arduino Uno.
